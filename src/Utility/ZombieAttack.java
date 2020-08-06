@@ -25,6 +25,7 @@ public class ZombieAttack {
                     }
                 }
             }
+            // Hi
             cnt++;
             System.out.println("Day " + cnt + " " + Arrays.toString(inhabitants));
         } while (!Arrays.equals(inhabitants,num1));
